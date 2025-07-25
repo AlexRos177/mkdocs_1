@@ -1,10 +1,9 @@
-# Page2
+# New list
 
-- list
-- list 2
+- How to start 
+- New device test
 
-Hello!
-!!! note
+
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
