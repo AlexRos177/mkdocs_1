@@ -10,7 +10,7 @@ Iphone 17
 
 [Smartphones](smartphones/) | [Laptops](laptops/) | [Audio](audio/) | [Smart Home](smart-home/)
 
-## 🏆Testing Methodology
+## 🏆Testing Methodology 
 
 I spend 2-3 weeks with each device, evaluating:
 
