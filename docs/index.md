@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# TechInsights - Honest Device Reviews
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the most trusted source for comprehensive, unbiased reviews of the latest technology devices. I test everything so you don't have to.
 
-## Commands
+## 🔥 Latest Reviews
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Iphone 17
 
-## Project layout
+## 📊 Review Categories
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Smartphones](smartphones/) | [Laptops](laptops/) | [Audio](audio/) | [Smart Home](smart-home/)
+
+## 🏆 Our Testing Methodology
+
+I spend 2-3 weeks with each device, evaluating:
+
+- **Real-world performance** in daily use scenarios
+- **Battery life** under various conditions
+- **Build quality** and durability
+- **Software experience** and updates
+- **Value for money** compared to competitors
+
+
+---
+
