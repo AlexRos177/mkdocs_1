@@ -34,7 +34,7 @@ extra_css:
   - stylesheets/extra.css
 
 site_author: Alex Ros
-copyright: Alex Ros, My Mkdocs site, 2025
+copyright: Alex Ros, My site, 2025
 markdown_extensions:
   - admonition
   - pymdownx.details
