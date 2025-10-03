@@ -1,4 +1,4 @@
-# {{ device_name }} Review
+# Review
 
 **Rating:** {{ rating }} / 5  
 **Price:** {{ price }}  

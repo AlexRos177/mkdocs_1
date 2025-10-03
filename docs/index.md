@@ -4,7 +4,7 @@ Welcome to the most trusted source for comprehensive, unbiased reviews of the la
 
 ## 🔥 Latest Reviews
 
-Iphone 17
+Iphone 17 Pro Max
 
 ## 📊 Review Categories
 

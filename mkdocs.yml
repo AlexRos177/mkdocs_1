@@ -1,4 +1,4 @@
-site_name: My site about devices
+site_name: DeviceHub
 site_url: https://alexros177.github.io/mkdocs_1/
 
 theme:
@@ -53,6 +53,7 @@ markdown_extensions:
 
 theme:
   name: readthedocs
+  logo: images/devicehub-logo.png
 
 extra_css:
   - css/custom.css
