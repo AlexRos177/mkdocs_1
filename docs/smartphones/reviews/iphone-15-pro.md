@@ -32,7 +32,13 @@
 
 ## ⚡ Performance Benchmarks
 
-{{ read_csv('data/benchmarks/iphone-15-pro.csv') }}
+| Device             | SoC / Chipset       | Geekbench 6 Single-Core | Geekbench 6 Multi-Core | GPU / Other Notes                                 |
+|--------------------|---------------------|-------------------------|------------------------|---------------------------------------------------|
+| iPhone 15 Pro      | Apple A17 Pro (3nm) | 2886–2920               | 7180–7450              | Metal GPU ~27,300, top performance + efficiency   |
+| Google Pixel 8 Pro | Google Tensor G3    | ~1760                   | ~4440                  | Lower GPU, decent ML, ~1.15M on AnTuTu 10         |
+| Samsung Galaxy S24 | Snapdragon 8 Gen 3  | ~2188                   | ~6935                  | Strong multi-core, GPU competitive but behind A17 |
+| Google Pixel 8     | Google Tensor G3    | ~1697                   | ~4281                  | Similar to Pixel 8 Pro, slightly lower all-around |
+
 
 ---
 
