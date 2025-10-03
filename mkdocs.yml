@@ -54,3 +54,5 @@ markdown_extensions:
 theme:
   name: readthedocs
 
+extra_css:
+  - css/custom.css
