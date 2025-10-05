@@ -54,4 +54,4 @@ The ASUS TUF Gaming F15 offers excellent value for budget-conscious gamers, deli
 
 ---
 
-[← Back to Laptops Overview](index. md) | [View Next Review: Lenovo LOQ 15 →](lenovo loq .md)
+[← Back to all laptops reviews]()
