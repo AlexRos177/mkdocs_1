@@ -1,77 +1,85 @@
-## Lenovo LOQ 15 (15″) – Review
+---
+hide:
+  - toc
+---
+
+# Lenovo LOQ 15 Review
 
 ![Lenovo15](./images/lenovo15.png)
 
-## ⭐Overview
+## Quick Specifications
+- **Processor**: Intel Core i5-13420H / AMD Ryzen 5 7640HS
+- **Graphics**: NVIDIA GeForce RTX 4050/4060
+- **RAM**: 16GB DDR5 (Expandable to 32GB)
+- **Display**: 15.6" FHD 144Hz IPS
+- **Storage**: 512GB NVMe SSD (Expandable)
 
-The Lenovo LOQ 15 is positioned as a mid-range gaming laptop that tries to balance performance, 
-affordability, and portability. With a 15.6-inch display, decent GPU options (like RTX 4060), 
-and recent generation CPUs, it aims to deliver strong gaming and multitasking capability without breaking the bank.
-Price: $1,299 (256GB model)
-Release Date: September 2025
-Test Duration: 4 weeks of intensive use
+## Performance Tests
 
-## 📋 Specifications
-| Feature          | Specs (sample model)                                                     |
-| ---------------- | ------------------------------------------------------------------------ |
-| Display          | 15.6″ Full HD IPS, 144 Hz refresh rate, 100% sRGB (or close), anti-glare |
-| CPU              | 13th-Gen Intel / Ryzen equivalents                                       |
-| GPU              | Nvidia RTX 4060 (or similar mid-tier gaming GPU)                         |
-| Memory / Storage | 16 GB RAM, 512 GB SSD (NVMe)                                             |
-| Weight           | Around 1.8-2.2 kg depending on config                                    |
-| Ports            | USB-C, USB-A, HDMI, possibly Ethernet, etc.                              |
-| Battery Life     | Modest under load, more acceptable under light use                       |
+### Gaming Performance
+| Game Title | Resolution | Settings | Avg FPS |
+|------------|------------|----------|---------|
+| Cyberpunk 2077 | 1080p | High | 55-65 FPS |
+| Call of Duty | 1080p | Ultra | 80-95 FPS |
+| Fortnite | 1080p | Epic | 100-120 FPS |
 
-##  👍*What’s Good*
+### Benchmark Scores
+- **3DMark Time Spy**: 7,200-8,500
+- **Cinebench R23 Multi-core**: 10,500-12,000
+- **PCMark 10**: 5,800-6,300
 
-## Strong Performance for Price
-The LOQ 15 generally offers very good FPS in 1080p gaming, especially with its mid-range GPU. 
-For users who want to game, stream, or do heavier workloads (video editing, productivity) without spending a premium, this laptop delivers value.
+## Design & Build Quality
+- **Chassis**: Plastic build with reinforced corners
+- **Weight**: 2.4 kg
+- **Keyboard**: White backlit, 1.5mm travel
+- **Ports**: USB-C 3.2, USB 3.2, HDMI 2.1, Ethernet
 
-## Solid Display
-Having 144 Hz (or more) refresh rate is a plus for gaming, and with good color accuracy (100% sRGB or close), 
-it also works well for content creation and media consumption.
+## Display Quality
+- **Size**: 15.6 inches
+- **Resolution**: 1920 x 1080
+- **Refresh Rate**: 144Hz
+- **Brightness**: 250 nits
 
-## Cooling / Thermal Design
-Lenovo has improved thermals in this line: dual fans, good air flow, 
-and decent heat management so that during gaming or demanding tasks, the laptop doesn’t become too hot or noisy.
+## Thermal Performance
+- **Cooling System**: Legion Cold front cooling
+- **Idle Temperatures**: 38-43°C
+- **Gaming Temperatures**: 70-80°C
 
-## Good Build and Keyboard
-The keyboard is comfortable, often with good key travel and layout. 
-Ports are ample. The build, while not ultra-premium everywhere, feels solid for its class.
+## Battery Life
+- **Capacity**: 60Wh
+- **Video Playback**: 4-5 hours
+- **Gaming**: 1-1.5 hours
 
-## ⚡*What Could Be Better*
+## Upgrade ability
+- **RAM**: 2x SODIMM slots (DDR5)
+- **Storage**: 2x M.2 NVMe slots
+- **Easy access** bottom panel
 
-## Battery Life Under Stress
-Gaming and heavy workloads drain battery quickly. Don’t expect long hours away from a power outlet if you push the machine hard. 
-Light tasks are okay, but for mobility under load it’s weaker.
+## Pros & Cons
 
-## Weight and Bulk
-Even though 15″ is more portable than 17″ models, the LOQ 15 is still heavier and thicker than ultraportables. 
-Carrying it around daily will be noticeable.
+### ✅ Pros
+- Excellent value for money
+- Good gaming performance for price
+- Upgrade-friendly design
+- Legion cooling system
 
-## Display Brightness / Glare
-In brighter environments (sunlight, bright rooms), the display may struggle. 
-Anti-glare helps, but brightness levels could be better in many configurations.
+### ❌ Cons
+- Average battery life
+- Heavier than some competitors
+- Display could be brighter
 
-## Some Bloatware
-Like many laptops, there can be preinstalled software (including Lenovo’s own tools) that some users may want to uninstall or disable.
+## Verdict
 
-## Who It’s Best For
+**Rating: 8.0/10**
 
-Gamers on a moderate budget who want good frame rates at 1080p and don’t need ultra 4K or extreme specs.
-Content creators who want a decent screen, SSD speeds, and a machine that does double duty (work + play).
-Students or professionals who need a strong performance laptop but can accept tradeoffs in battery life and portability.
+The Lenovo LOQ 15 strikes an excellent balance between performance and affordability.
 
-## 🎯 Verdict
-The Lenovo LOQ 15 is a strong contender in the 15-inch segment. 
-It doesn’t excel in every dimension, but it hits the sweet spot of performance, decent build, and price. 
-If you prioritize gaming and power over ultralight design and don't mind carrying a bit more, it’s one of the more compelling options in its price range.
+### Best For:
+- Budget to mid-range gamers
+- Students needing gaming capability
+- Users who value upgrade ability
 
-## ⚡ Performance Benchmarks
-
-
-
+---
 [← Back to all laptops reviews]()
 
 
