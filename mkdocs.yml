@@ -3,6 +3,8 @@ site_url: https://alexros177.github.io/mkdocs_1/
 
 theme:
   name: material
+
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo
@@ -43,11 +45,12 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+
 extra_css:
   - stylesheets/extra.css
 
+
 site_author: Alex Ros
-copyright: Alex Ros, My site, 2025
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -68,7 +71,8 @@ theme:
   name: readthedocs
   logo: images/devicehub-logo1.png
 
-extra_css:
-  - css/custom.css
+
 extra_javascript:
   - js/custom.js
+extra:
+  generator: false
