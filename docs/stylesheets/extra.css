@@ -1,0 +1,4 @@
+/* Hide the 'Made with Material for MkDocs' footer */
+.md-footer__inner:not([hidden]) {
+    display: none;
+}
