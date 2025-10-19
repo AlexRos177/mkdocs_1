@@ -178,7 +178,6 @@ FINAL SCORE: ████████████████▊ 84%
 The Galaxy A56 sets a new standard for what mid-range smartphones can achieve, particularly in display quality and battery life, making it the go-to recommendation for anyone with a $450 budget.
 
 [← Back to all smartphone reviews](../)
-[View mid-range comparison →](../../comparisons/mid-range-2025.md)
 [Check current pricing →](https://www.samsung.com)
 
 ---
