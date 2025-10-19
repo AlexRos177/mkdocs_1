@@ -1,0 +1,33 @@
+.specs-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.9em;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.specs-table th {
+    background-color: var(--md-primary-fg-color);
+    color: white;
+    padding: 0.75rem;
+    text-align: left;
+    font-weight: 600;
+}
+
+.specs-table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.specs-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.specs-table tr:hover {
+    background-color: #f5f5f5;
+}
+
+.spec-highlight {
+    font-weight: bold;
+    color: var(--md-accent-fg-color);
+}
