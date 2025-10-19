@@ -1,4 +1,4 @@
-# TechInsights - Honest Device Reviews
+# Device Hub - Honest Device Reviews
 
 Welcome to the most trusted source for comprehensive, unbiased reviews of the latest technology devices. I test everything so you don't have to.
 
