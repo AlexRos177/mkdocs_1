@@ -4,7 +4,7 @@ Welcome to the most trusted source for comprehensive, unbiased reviews of the la
 
 ## 🔥 Latest Reviews
 
-[**Samsung Galaxy A56**](smartphones/reviews/galaxyA56/) | [**iPhone 17 Pro Max**](smartphones/reviews/iphone17pro/) | [**iPhone 15 Pro**](smartphones/reviews/iphone15pro/)
+[**Samsung Galaxy A56**](smartphones/reviews/galaxyA56/) | [**iPhone 17 Pro Max**](smartphones/reviews/iphone17pro/) | [**iPhone 15 Pro**](smartphones/reviews/iphone15pro/) 
 
 ## 📊 Review Categories
 
