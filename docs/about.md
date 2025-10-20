@@ -1,4 +1,4 @@
-## About Tech Insights
+## About Device Hub 
 
 I'm passionate about technology and its potential to improve lives. I spend countless hours testing, analyzing and comparing new devices to bring you:
 

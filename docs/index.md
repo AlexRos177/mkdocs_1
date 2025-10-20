@@ -4,11 +4,11 @@ Welcome to the most trusted source for comprehensive, unbiased reviews of the la
 
 ## 🔥 Latest Reviews
 
-Iphone 17 Pro Max
+[**Samsung Galaxy A56**](smartphones/reviews/galaxyA56/) | [**iPhone 17 Pro Max**](smartphones/reviews/iphone17pro/) | [**iPhone 15 Pro**](smartphones/reviews/iphone15pro/)
 
 ## 📊 Review Categories
 
-[Smartphones](smartphones/) | [Laptops](laptops/) | [Audio](audio/) | [Smart Home](smart-home/)
+[**Smartphones**](smartphones/) | [**Laptops**](laptops/) | [**Audio**](audio/reviews) | [**Smart Home**](smart-home/reviews/smart-home)
 
 ## 🏆Testing Methodology 
 
