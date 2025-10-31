@@ -45,6 +45,12 @@ theme:
     text: Roboto
     code: Roboto Mono
 
+pplugins:
+  - search
+  - encryptcontent:
+      password: "test123"
+      pages:
+        - docs/secret.md
 
 extra_css:
   - stylesheets/extra.css
