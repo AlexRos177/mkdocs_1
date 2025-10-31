@@ -1,4 +1,5 @@
 # AirPods Pro 2 Review
+![AirPodPro2](./images/airPro2.png)
 
 **Rating:** ⭐⭐⭐⭐ (4.3/5)  
 **Price:** $249  
