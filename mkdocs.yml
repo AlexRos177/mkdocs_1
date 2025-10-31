@@ -47,8 +47,7 @@ theme:
 
 plugins:
   - search
-  - encryptcontent:
-      password: "Pass777"
+
 
 extra_css:
   - stylesheets/extra.css
